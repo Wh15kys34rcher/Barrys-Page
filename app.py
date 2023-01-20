@@ -63,10 +63,10 @@ with st.container():
     with image_column:
         st.image(img_lottie)
     with text_column:
-        st.subheader("Willie shouts at kids")
+        st.subheader("Willie shouts...")
         st.write(
             """
-            Ground keeper Willie at it again
+            Willie says EEL IS A CUNT!!!!!
             """
         )
         st.markdown("[Watch Video...](https://youtu.be/i2q0T7QXETs)")
